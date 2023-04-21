@@ -1,0 +1,121 @@
+
+{
+       "items": {
+           "responsive": [
+            {
+              "id": 1,
+              "title": "BANCOLOMBIA",
+              "text": "Somos un grupo financiero líder, con más de 146 años de experiencia y que evoluciona para asumir los desafíos que trae un entorno en constante transformación. Somos una organización en crecimiento, rentable, con casi 30,000 colaboradores y presencia en Colombia, Panamá, Guatemala y El Salvador. Desde hace 25 años estamos en la Bolsa de Valores de Nueva York (NYSE), siendo la primera entidad financiera colombiana listada en ese mercado. Proveemos acceso a soluciones financieras y no financieras para personas, emprendedores, pymes, empresas e instituciones, al tiempo que invertimos en iniciativas educativas, de emprendimiento y para el cuidado del medio ambiente que ayuden a generar transformaciones positivas en la sociedad. Tenemos acceso permanente a fondeo en el mercado de capitales local e internacional.",
+              "imageUrl": "../bancolombia.jpg"
+            },
+            {
+               "id": 2,
+              "title": "BANCO DE BOGOTA",
+              "text": "El Banco de Bogotá es el segundo banco más grande de Colombia por tamaño de activos. En su modelo de Banca universal atiende a todos los segmentos del mercado con altos estándares de calidad. Tiene presencia en más de 12 países de la región. Su desempeño en los mercados donde opera, lo han convertido en un referente bancario",
+              "imageUrl": "../bancodebogota.jpg"
+            },
+             {
+               "id": 3,
+               "title": "CELSIA",
+               "text": "Somos la empresa de energía del Grupo Argos, apasionada por las nuevas fuentes de energía renovables y amigables con el medio ambiente y la eficiencia energética. Generamos y transmitimos energía eficiente de fuentes limpias (agua, sol y viento) con respaldo térmico. Hemos encontrado nuevas maneras de asesorar a nuestros clientes para que su hogar, empresa o proyecto urbano se conecten y puedan disfrutar de todas las ventajas de la nueva era de la energía.",
+               "imageUrl": "../celsia.jpg"
+             },
+             {
+               "id": 4,
+               "title": "CEMENTOS ARGOS",
+               "text": "Somos una organización multinacional, productora y comercializadora de cemento y concreto. Gracias a la capacidad instalada, la creación de valor para nuestros clientes, la innovación constante y su compromiso con la sostenibilidad, somos líderes en Colombia y uno de los actores más relevantes del mercado del cemento y el concreto en el continente. Somos líderes del mercado de cemento y concreto en Colombia, con presencia también en Estados Unidos, Centroamérica y otros países del continente Americano, donde contamos con más de 22.000 clientes. En nuestro portafolio especializado tenemos productos como Cemento, Concreto, Agregados, Mezclas Listas, entre otras solucione.",
+               "imageUrl": "../cementosargos.jpg"
+             },
+             {
+                "id": 5,
+               "title": "CONCONCRETO",
+               "text": "Somos una organización multinacional, productora y comercializadora de cemento y concreto. Gracias a la capacidad instalada, la creación de valor para nuestros clientes, la innovación constante y su compromiso con la sostenibilidad, somos líderes en Colombia y uno de los actores más relevantes del mercado del cemento y el concreto en el continente. Somos líderes del mercado de cemento y concreto en Colombia, con presencia también en Estados Unidos, Centroamérica y otros países del continente Americano, donde contamos con más de 22.000 clientes. En nuestro portafolio especializado tenemos productos como Cemento, Concreto, Agregados, Mezclas Listas, entre otras solucione.",
+               "imageUrl": "../conconcreto.jpg"
+             },
+            {
+               "id": 7,
+              "title": "CORFICOLOMBIANA",
+              "text": "Corficolombiana es la Corporación Financiera más grande de Colombia, con inversiones en cinco sectores estratégicos de la economía: infraestructura, energía y gas, servicios financieros, hoteles y agroindustria, creando y aprovechando oportunidades de mejora en las perspectivas de crecimiento e impulsando su rentabilidad. Adicional a las actividades de Banca de Inversión, desarrolla operaciones de tesorería y fiducia a través de sus filiales.",
+              "imageUrl": "../corficolombiana.jpg"
+            },
+            {
+              "id": 8,
+              "title": "DAVIVIENDA",
+              "text": "Durante más de cuatro décadas hemos participado activamente en la construcción de Colombia y nos hemos convertido en un referente importante en el sector financiero del país. Hacemos parte del Grupo Empresarial Bolívar, que por más de 80 años ha acompañado a las personas, a las familias y a las empresas en el cumplimiento de sus objetivos. Somos reconocidos por el manejo único de nuestra imagen a través de la comunicación, convirtiéndonos en una de las cinco marcas más valiosas y el primer Banco en recordación publicitaria de Colombia. Nuestro portafolio integral de productos y servicios atiende las necesidades de personas, empresas, sector rural, minería y energía, con innovación constante y ofertas exclusivas para cada segmento.   Además de Colombia, tenemos operaciones en Panamá, Costa Rica, Honduras, El Salvador y Miami, en los Estados Unidos. ",
+              "imageUrl": "../davivienda.JPG"
+            },
+             {
+               "id": 9,
+               "title": "ECOPETROL",
+               "text": "Ecopetrol S.A. es una Compañía organizada bajo la forma de sociedad anónima, del orden nacional, vinculada al Ministerio de Minas y Energía. Tiene operaciones ubicadas en el centro, sur, oriente y norte de Colombia, al igual que en el exterior. Cuenta con dos refinerías en Barrancabermeja y Cartagena. A través de su filial Cenit, especializada en transporte y logística de hidrocarburos, es dueña de tres puertos para exportación e importación de combustibles y crudos en Coveñas (Sucre) y Cartagena (Bolívar) con salida al Atlántico, y Tumaco (Nariño) en el Pacífico. Cenit también es propietaria de la mayor parte de los oleoductos y poliductos del país que intercomunican los sistemas de producción con los grandes centros de consumo y los terminales marítimos. Ecopetrol también tiene participación en el negocio de los biocombustibles y presencia en Brasil, Mexico y Estados Unidos (Golfo de México y Permian Texas). ",
+               "imageUrl": "../ecopetrol.jpg"
+             },
+             {
+               "id": 9,
+               "title": "GRUPO DE ENERGÍA DE BOGOTA",
+               "text": "Somos una multilatina con más de 125 años de historia, con operaciones en toda la cadena energética en América Latina en transmisión, generación y distribución de energía eléctrica y transporte y distribución de gasnatural en Colombia, Perú. Brasil y Guatemala, con participación en grandes empresas del sector y 11 filiales. En Colombia, con Transmisión, somos número dos en transporte de energía eléctrica con 1.690 kilómetros de líneas en operación y más de 2.300 kilómetros en construcción. ",
+               "imageUrl": "../EEB.jpg"
+             },
+             {
+                "id": 10,
+               "title": "ENKA",
+               "text": "Fundada en 1964 por el grupo holandés Akzo Nobel e importantes compañías textileras del país con el propósito de fabricar y comercializar resinas y fibras sintéticas, buscando el desarrollo de la industria y la sociedad colombiana. Nuestra planta de producción, inició operaciones en 1966, con una capacidad de 4.200 toneladas al año. Hoy en día la capacidad supera las 100.000 toneladas anuales. Con más de 50 años en el mercado, somos reconocidos como líderes en el reciclaje de botellas de PET posconsumo en el país, el principal fabricante de lona para llantas de nylon 6 en América, el mayor productor de filamentos y fibras sintéticas en la Región Andina y uno de los principales jugadores en Latinoamérica. ",
+               "imageUrl": "/enka.jpg"
+             },
+             {
+              "id": 6,
+              "title": "GRUPO ARGOS",
+              "text": "Somos una holding de infraestructura referente en el continente americano y líder en el negocio de cementos. Contamos con una estructura única de inversión en concesiones viales y aeroportuarias. Además, tenemos un portafolio diferenciador e innovador en energías convencionales y renovables. Somos líderes en el negocio de Cementos con Argos, contamos con una estructura única de inversión en concesiones con Odinsa y un portafolio diferenciado e innovador en energía con Celsia. ",
+              "imageUrl": "../grupoargos.jpg"
+            },
+            {
+               "id": 7,
+              "title": "GRUPO AVAL",
+              "text": "Grupo Aval es uno de los grupos financieros más grandes de Colombia, líder en el negocio de banca tradicional a través de sus cuatro bancos (Banco de Bogotá, Banco de Occidente, Banco Popular y Banco AV Villas), en el negocio de banca de inversión a través de Corficolombiana y en el negocio de administración privada de pensiones y cesantías a través de Porvenir. Adicionalmente tiene presencia en Panamá a través de la operación de Multi Financial Group. Grupo Aval atiende alrededor de 18 millones de clientes bancarios y 15.8 millones de afiliados a fondos de pensiones y cesantías en Colombia. Cuenta con una red de 51,362 puntos de atención en Colombia dentro de los cuales se encuentran 1,173 oficinas y 3,272 cajeros automáticos.",
+              "imageUrl": "../grupoaval.jpg"
+            },
+            {
+              "id": 8,
+              "title": "GRUPO BOLIVAR",
+              "text": "El Grupo Bolívar es un grupo empresarial con un enfoque multilatino que cuenta con más de 70 años de existencia, conformado por empresas de diversos sectores: sector financiero, sector asegurador, sector de la construcción, entre otros, que gozan del más alto nivel de reconocimiento en el mercado por su solidez, tradición y por su estricto apego a la legislación que les es aplicable.",
+              "imageUrl": "../grupobolivar.jpg"
+            },
+             {
+               "id": 9,
+               "title": "GRUPO SURA",
+               "text": "Somos un gestor de inversiones latinoamericano que desarrolla un portafolio balanceado de inversiones con foco en servicios financieros y afines. Nos orienta el propósito de crear bienestar y desarrollo armónico para las personas, las organizaciones y la sociedad. Con el objetivo estratégico de obtener rentabilidad sostenible buscamos entregarles a nuestros accionistas un retorno económico superior al costo de capital y crear valor a nuestros demás grupos de interés, con mirada de largo plazo. Somos compañía holding del Conglomerado Financiero SURA-Bancolombia, presente en 11 países de América Latina. Cotizamos en la Bolsa de Valores de Colombia (BVC) y estamos inscritos en el programa ADR -Nivel I, en Estados Unidos. ",
+               "imageUrl": "../gruposura.jpg"
+             },
+             {
+              "id": 10,
+             "title": "ISA",
+             "text": "Somos una empresa multilatina con más de 55 años de experiencia y trayectoria, que opera en los negocios de Energía Eléctrica, Vías y Telecomunicaciones y TIC, que aporta a la calidad de vida de millones de personas en Colombia, Brasil, Chile, Perú, Bolivia, Argentina y Centroamérica, a través del trabajo de nuestros más de cuatro mil  talentos en  51 empresas. Nuestra compañía y empresas están comprometidas con la mitigación y adaptación al cambio climático, el uso racional de los recursos, el desarrollo de programas que generen impacto positivo en el medioambiente, el desarrollo integral de las comunidades donde opera y la calidad, confiabilidad y disponibilidad de los servicios que presta.",
+             "imageUrl": "../isa.jpg"
+           },
+           {
+             "id": 11,
+             "title": "MINEROS",
+             "text": "Somos una compañía enfocada en la producción y exploración responsable de oro, con más de 47 años de experiencia, con casa matriz en Medellín, Colombia. Tenemos presencia en cuatro países. Con producción en Colombia, Nicaragua y Argentina, y exploración en los países en que operamos y Chile. En Colombia, tenemos la propiedad minera Nechí Aluvial, en el Bajo Cauca antioqueño, en el noroccidente del país. En Nicaragua, contamos con la propiedad minera Hemco, localizada en Bonanza, Municipio en la Costa Caribe, al noreste del país, donde tenemos una mina subterránea y un programa de minería artesanal. En Argentina, tenemos la propiedad minera Gualcamayo, que se ubica en el Municipio de San Juan, al nordeste del país, cerca de la frontera con Chile, la cual cuenta con una operación a cielo abierto y otra subterránea. En Chile, contamos con un earn-in en el proyecto Greenfield con Yamana, La Pepa, que se encuentra al norte del país, en la región de Copiapó. ",
+             "imageUrl": "../mineros.jpg"
+           },
+            {
+              "id": 12,
+              "title": "NUTRESA",
+              "text": "Grupo Nutresa S. A. es la empresa líder en alimentos procesados en Colombia -con el 53,7% de participación de mercado consolidado- y uno de los jugadores más relevantes del sector en América Latina, con ventas consolidadas por COP 12,7 billones a través de ocho unidades de negocio: Cárnicos, Galletas, Chocolates, Cafés, Tresmontes Lucchetti (TMLUC), Alimentos al Consumidor, Helados, Pastas y otros. Grupo Nutresa es una empresa diversificada en términos de geografía, productos y abastecimiento; con presencia directa en 17 países y ventas internacionales por USD 1.322 millones en 82 países. ",
+              "imageUrl": "../nutresa.jpg"
+            },
+            {
+              "id": 13,
+              "title": "PEI",
+              "text": "Es una alternativa de inversión que permite a los inversionistas participar en un portafolio diversificado de activos comerciales generadores de renta a través de Títulos Participativos que transan en la Bolsa de Valores de Colombia y cuentan con la más alta calificación otorgada por BRC Standard & Poor´s: i-AAA. Pei es pionero de los vehículos de inversión inmobiliaria líder en Colombia y está estructurado como un patrimonio autónomo de titularización inmobiliaria. Este replica el modelo de las fiducias inmobiliarias internacionales comúnmente conocidas como REITs por sus siglas en inglés (Real Estate Investment Trusts)",
+              "imageUrl": "../PEI.jpg"
+            },
+             {
+               "id": 14,
+               "title": "TERPEL",
+               "text": "Terpel es una compañía de origen, tradición y talante colombiano que durante 50 años ha estado comprometida con el país, promoviendo su desarrollo, creciendo de la mano de sus afiliados y trabajando bajo una estricta política de gobierno corporativo y de ética empresarial. Es líder en distribución y comercialización de combustibles líquidos, GNV y lubricantes en Colombia y cuenta con una importante presencia en Ecuador, Panamá, Perú y República Dominicana. En Colombia su red está compuesta por más de 2.000 estaciones de servicio y 31 plantas de abastecimiento. En el negocio de Aviación, la compañía lidera el mercado operando en 21 aeropuertos en Colombia, 5 en Panamá, uno en Perú y 5 en República Dominicana. ",
+               "imageUrl": "../terpel.jpg"
+             }
+            ]
+          }
+ }

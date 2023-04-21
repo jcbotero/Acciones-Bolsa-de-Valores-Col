@@ -1,8 +1,8 @@
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
-import Bread from './breadcrumb'
-import Landing from './Landing'
-import Footer from './footer'
+import styles from '/styles/Home.module.css'
+import Bread5 from './bread5'
+import Footer from '../footer'
+import Contacto from './contacto'
 
 
 export default function Home() {
@@ -19,12 +19,12 @@ export default function Home() {
         <script src="https://kit.fontawesome.com/068ec41cf0.js" crossorigin="anonymous"></script>
       </Head>
       <main className={styles.main}>
-        < Bread />
-        < Landing />
+        < Bread5 />
+        < Contacto />
       </main>
-      <div>
-      < Footer />
-      </div>
+      <div id={styles.footercontact}>
+         < Footer />    
+     </div>    
     </>
   )
 }
