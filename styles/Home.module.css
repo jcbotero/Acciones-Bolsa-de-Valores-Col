@@ -784,17 +784,17 @@
 @media (max-width: 650px)  /* celphones */ {
    
   .main {
-    padding: 3rem;
+    padding: 2.5rem;
 
   }
   
   .bread {
     margin: -7% 0% 5% 0%;
-    background-size: 120%;
+    background-size: 125%;
   }
   
   .breadp {
-    margin: 30% 2% 15% 2%;
+    margin: 30% 0% 15% 0%;
     background-color: #f5f6f8;
   }
   
