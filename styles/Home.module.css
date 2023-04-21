@@ -801,13 +801,13 @@
   .breadp a:nth-child(2), .breadp a:nth-child(4) {
     padding-top: 10%;
     height: 10px;
-
   }
   .breadp a {
-    font-size: 25px;
+    font-size: 24px;
     border-bottom: none;
     color: rgb(131, 6, 6);
     text-decoration: overline;
+    padding: 3% 0%;
   }
   
 .home{
