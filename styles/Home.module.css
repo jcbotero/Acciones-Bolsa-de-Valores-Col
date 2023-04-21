@@ -790,6 +790,7 @@
   
   .bread {
     margin: -7% 0% 5% 0%;
+    background-size: 120%;
   }
   
   .breadp {
@@ -797,10 +798,22 @@
     background-color: #f5f6f8;
   }
   
+  .breadp a:nth-child(2), .breadp a:nth-child(4) {
+    padding-top: 10%;
+    height: 10px;
+
+  }
   .breadp a {
-    font-size: 19px;
+    font-size: 25px;
+    border-bottom: none;
+    color: rgb(131, 6, 6);
+    text-decoration: overline;
   }
   
+.home{
+  background-image: none ;
+  border-radius: 0%;
+}
   .main h1 {
      font-size: 18px;
      margin: 2% 5%;
@@ -996,7 +1009,7 @@
   }
   
   .detail h2 {
-    font-size: 40px;
+    font-size: 35px;
   }
   
   .detail p {
