@@ -12,6 +12,8 @@ export default function Footer() {
             </div>
             <p>“No podemos dirigir el viento, solo podemos ajustar las velas.” <span>Dolly Parton. </span></p>
             <p>Developed by <span>Juan Camilo Botero Gutiérrez.</span></p>
+            <p>© copyright 2022.Todos los derechos reservados.</p>
+            <p><span>Disclaimer:</span> La información aquí expuesta es de caracter educativa, y no constituye ningún tipo de recomenación de inverisión</p>
           </div>
         </>
     )
