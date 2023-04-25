@@ -22,7 +22,7 @@ function close() {
         <>
          <div className={styles.bread}>
             <div id='bread' className={styles.breadp}>
-                <a href='/devter' className={styles.home}> HOME</a> 
+                <a href='/' className={styles.home}> HOME</a> 
                 <a href='/educacion'>EDUCACION</a> 
                 <a href='/empresas' >EMPRESAS</a> 
                 <a href='/contacto'>CONTACTO</a> 
