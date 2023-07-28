@@ -25,6 +25,7 @@ function close() {
                 <a href='/' className={styles.home}> HOME</a> 
                 <a href='/educacion'>EDUCACION</a> 
                 <a href='/empresas' >EMPRESAS</a> 
+                <a href='https://jcbotero.github.io/Juego-de-Inversiones/' >JUEGO</a> 
                 <a href='/contacto'>CONTACTO</a> 
             </div>
             <div className={styles.mobile}>
