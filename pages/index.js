@@ -1,8 +1,12 @@
+'use client' // next por default trabaja desde el lado del servidor y asi no me deja usar usestate... por eso con esta linea trabajo desde el lado del client
+
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Bread from './breadcrumb'
 import Landing from './Landing'
 import Footer from './footer'
+import "@fortawesome/fontawesome-svg-core/styles.css";
+
 
 
 export default function Home() {

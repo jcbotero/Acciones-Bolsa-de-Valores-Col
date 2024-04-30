@@ -1,3 +1,5 @@
+
+
 .main {
   display: flex;
   flex-direction: column;
@@ -784,23 +786,36 @@
 @media (max-width: 650px)  /* celphones */ {
    
   .main {
-    padding: 3rem;
+    padding: 2.5rem;
 
   }
   
   .bread {
     margin: -7% 0% 5% 0%;
+    background-size: 125%;
   }
   
   .breadp {
-    margin: 30% 2% 15% 2%;
+    margin: 30% 0% 15% 0%;
     background-color: #f5f6f8;
   }
   
+  .breadp a:nth-child(2), .breadp a:nth-child(4) {
+    padding-top: 10%;
+    height: 10px;
+  }
   .breadp a {
-    font-size: 19px;
+    font-size: 24px;
+    border-bottom: none;
+    color: rgb(131, 6, 6);
+    text-decoration: overline;
+    padding: 3% 0%;
   }
   
+.home{
+  background-image: none ;
+  border-radius: 0%;
+}
   .main h1 {
      font-size: 18px;
      margin: 2% 5%;
@@ -996,7 +1011,7 @@
   }
   
   .detail h2 {
-    font-size: 40px;
+    font-size: 35px;
   }
   
   .detail p {

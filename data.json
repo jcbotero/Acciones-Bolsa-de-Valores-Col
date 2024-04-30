@@ -4,207 +4,226 @@
 {	
 "id" :	 "1", 
 "nombre":	 "BANCOLOMBIA", 
- "per" : 	" 5,51",
- "pvl" : 	" 0,96",
-"roe" :	" 17%",
-"yield" :	" 9,09%",
-"ytd" :	" -8,52%"
+ "per" : 	" 5,41",
+ "pvl" : 	" 0,87",
+"roe" :	" 15%",
+"yield" :	" 10,28%",
+"ytd" :	" 3,61%"
 },	
 {	
 "id" :	 "2", 
 "nombre":	 "BANCOLOMBIA PF", 
- "per" : 	" 4,57",
- "pvl" : 	" 0,79",
-"roe" :	" 17%",
-"yield" :	" 10,98%",
-"ytd" :	" -4,02%"
+ "per" : 	" 5,09",
+ "pvl" : 	" 0,82",
+"roe" :	" 16%",
+"yield" :	" 10,91%",
+"ytd" :	" 8,29%"
 },	
 {	
 "id" :	 "3", 
 "nombre":	 "BANCO DE BOGOTA", 
- "per" : 	" 4,20",
- "pvl" : 	" 0,75",
-"roe" :	" 18%",
-"yield" :	" 8,80%",
-"ytd" :	" -3,81%"
+ "per" : 	" 11,00",
+ "pvl" : 	" 0,64",
+"roe" :	" 5,9%",
+"yield" :	" 5,09%",
+"ytd" :	" 3,79%"
 },	
 {	
 "id" :	 "4", 
-"nombre":	 "CELSIA", 
- "per" : 	" 11,78",
- "pvl" : 	" 0,64",
-"roe" :	" 5,4%",
-"yield" :	" 9,30%",
-"ytd" :	" 9,50%"
+"nombre":	 "BHI", 
+ "per" : 	" 5,13",
+ "pvl" : 	" 0,71",
+"roe" :	" 13,8%",
+"yield" :	" 8,81%",
+"ytd" :	" 19,25%"
 },	
 {	
 "id" :	 "5", 
-"nombre":	 "CEMENTOS ARGOS", 
- "per" : 	" 30,40",
- "pvl" : 	" 0,36",
-"roe" :	" 1,2%",
-"yield" :	" 10,14%",
-"ytd" :	" -11,69%"
+"nombre":	 "CELSIA", 
+ "per" : 	" 22,95",
+ "pvl" : 	" 1,16",
+"roe" :	" 5,1%",
+"yield" :	" 7,47%",
+"ytd" :	" 40,20%"
 },	
 {	
 "id" :	 "6", 
-"nombre":	 "CONCONCRETO", 
- "per" : 	" 4,78",
- "pvl" : 	" 0,20",
-"roe" :	" 4,3%",
-"yield" :	" 0,00%",
-"ytd" :	" 7,08%"
+"nombre":	 "CEMENTOS ARGOS", 
+ "per" : 	" 35,44",
+ "pvl" : 	" 1,25",
+"roe" :	" 3,5%",
+"yield" :	" 1,43%",
+"ytd" :	" 34,53%"
 },	
 {	
 "id" :	 "7", 
-"nombre":	 "CORFICOLOMBIANA", 
- "per" : 	" 2,72",
- "pvl" : 	" 0,41",
-"roe" :	" 15%",
-"yield" :	" 10,64%",
-"ytd" :	" -14,27%"
+"nombre":	 "CONCONCRETO", 
+ "per" : 	" 336,43",
+ "pvl" : 	" 0,25",
+"roe" :	" 0,1%",
+"yield" :	" 0,00%",
+"ytd" :	" 15,65%"
 },	
 {	
 "id" :	 "8", 
-"nombre":	 "CORFICOLOMBIANA PF", 
- "per" : 	" 2,43",
- "pvl" : 	" 0,36",
-"roe" :	" 15%",
-"yield" :	" 11,91%",
-"ytd" :	" -10,93%"
+"nombre":	 "CORFICOLOMBIANA", 
+ "per" : 	" 6,25",
+ "pvl" : 	" 0,46",
+"roe" :	" 7,3%",
+"yield" :	" 9,10%",
+"ytd" :	" 11,41%"
 },	
 {	
 "id" :	 "9", 
-"nombre":	 "DAVIVIENDA", 
- "per" : 	" 5,99",
- "pvl" : 	" 0,59",
-"roe" :	" 10%",
-"yield" :	" 4,70%",
-"ytd" :	" -21,99%"
+"nombre":	 "CORFICOLOMBIANA PF", 
+ "per" : 	" 6,68",
+ "pvl" : 	" 0,49",
+"roe" :	" 7,3%",
+"yield" :	" 8,51%",
+"ytd" :	" 42,30%"
 },	
 {	
 "id" :	 "10", 
-"nombre":	 "ECOPETROL", 
- "per" : 	" 3,10",
- "pvl" : 	" 1,14",
-"roe" :	" 37%",
-"yield" :	" 23,53%",
-"ytd" :	" 4,13%"
+"nombre":	 "DAVIVIENDA PF", 
+ "per" : 	" -25,16",
+ "pvl" : 	" 0,66",
+"roe" :	" -2,6%",
+"yield" :	" 0,00%",
+"ytd" :	" 13,14%"
 },	
 {	
 "id" :	 "11", 
-"nombre":	 "EEB", 
- "per" : 	" 5,47",
- "pvl" : 	" 0,76",
-"roe" :	" 14%",
-"yield" :	" 12,82%",
-"ytd" :	" 1,01%"
+"nombre":	 "ECOPETROL", 
+ "per" : 	" 4,98",
+ "pvl" : 	" 1,21",
+"roe" :	" 24,3%",
+"yield" :	" 13,51%",
+"ytd" :	" -1,28%"
 },	
 {	
 "id" :	 "12", 
-"nombre":	 "ENKA", 
- "per" : 	" 10,77",
- "pvl" : 	" 0,55",
-"roe" :	" 5,1%",
-"yield" :	" 1,78%",
-"ytd" :	" -11,07%"
+"nombre":	 "EXITO", 
+ "per" : 	" 23,85",
+ "pvl" : 	" 0,40",
+"roe" :	" 1,7%",
+"yield" :	" 2,18%",
+"ytd" :	" -34,05%"
 },	
 {	
 "id" :	 "13", 
-"nombre":	 "GRUPO ARGOS", 
- "per" : 	" 9,05",
- "pvl" : 	" 0,38",
-"roe" :	" 4,2%",
-"yield" :	" 6,18%",
-"ytd" :	" -2,00%"
+"nombre":	 "GEB", 
+ "per" : 	" 8,89",
+ "pvl" : 	" 1,22",
+"roe" :	" 13,7%",
+"yield" :	" 10,00%",
+"ytd" :	" 32,11%"
 },	
 {	
 "id" :	 "14", 
-"nombre":	 "GRUPO ARGOS PF", 
- "per" : 	" 5,68",
- "pvl" : 	" 0,24",
-"roe" :	" 4,2%",
-"yield" :	" 9,85%",
-"ytd" :	" -8,03%"
+"nombre":	 "ENKA", 
+ "per" : 	" 10,66",
+ "pvl" : 	" 0,42",
+"roe" :	" 3,9%",
+"yield" :	" 6,59%",
+"ytd" :	" 7,06%"
 },	
 {	
 "id" :	 "15", 
-"nombre":	 "GRUPO AVAL PF", 
- "per" : 	" 5,40",
- "pvl" : 	" 0,81",
-"roe" :	" 15%",
-"yield" :	" 7,18%",
-"ytd" :	" 5,61%"
+"nombre":	 "GRUPO ARGOS", 
+ "per" : 	" 15,45",
+ "pvl" : 	" 0,75",
+"roe" :	" 4,8%",
+"yield" :	" 3,88%",
+"ytd" :	" 32,05%"
 },	
 {	
 "id" :	 "16", 
-"nombre":	 "GRUPO BOLIVAR PF", 
- "per" : 	" 4,55",
- "pvl" : 	" 0,37",
-"roe" :	" 8,1%",
-"yield" :	" 3,50%",
-"ytd" :	" 0,00%"
+"nombre":	 "GRUPO ARGOS PF", 
+ "per" : 	" 11,17",
+ "pvl" : 	" 0,54",
+"roe" :	" 4,8%",
+"yield" :	" 5,36%",
+"ytd" :	" 40,19%"
 },	
 {	
 "id" :	 "17", 
-"nombre":	 "GRUPO SURA", 
- "per" : 	" 11,72",
- "pvl" : 	" 0,72",
-"roe" :	" 6,2%",
-"yield" :	" 3,05%",
-"ytd" :	" 0,00%"
+"nombre":	 "GRUPO AVAL PF", 
+ "per" : 	" 14,20",
+ "pvl" : 	" 0,63",
+"roe" :	" 4,4%",
+"yield" :	" 5,10%",
+"ytd" :	" -2,89%"
 },	
 {	
 "id" :	 "18", 
-"nombre":	 "GRUPO SURA PF", 
- "per" : 	" 3,20",
- "pvl" : 	" 0,20",
-"roe" :	" 6,2%",
-"yield" :	" 11,18%",
-"ytd" :	" -13,26%"
+"nombre":	 "GRUPO BOLIVAR", 
+ "per" : 	" 17,83",
+ "pvl" : 	" 0,37",
+"roe" :	" 1,1%",
+"yield" :	" 9,73%",
+"ytd" :	" 11,56%"
 },	
 {	
 "id" :	 "19", 
-"nombre":	 "ISA", 
- "per" : 	" 8,83",
- "pvl" : 	" 1,05",
-"roe" :	" 12%",
-"yield" :	" 10,51%",
-"ytd" :	" -16,76%"
+"nombre":	 "GRUPO SURA", 
+ "per" : 	" 11,67",
+ "pvl" : 	" 0,59",
+"roe" :	" 5,1%",
+"yield" :	" 3,50%",
+"ytd" :	" 37,93%"
 },	
 {	
 "id" :	 "20", 
-"nombre":	 "MINEROS", 
- "per" : 	" 32,99",
- "pvl" : 	" 0,38",
-"roe" :	" 1,1%",
-"yield" :	" 14,83%",
-"ytd" :	" 13,51%"
+"nombre":	 "GRUPO SURA PF", 
+ "per" : 	" 6,87",
+ "pvl" : 	" 0,35",
+"roe" :	" 5,1%",
+"yield" :	" 5,95%",
+"ytd" :	" 74,37%"
 },	
 {	
 "id" :	 "21", 
-"nombre":	 "NUTRESA", 
- "per" : 	" 30,73",
- "pvl" : 	" 2,53",
-"roe" :	" 8,2%",
-"yield" :	" 2,29%",
-"ytd" :	" 32,54%"
+"nombre":	 "ISA", 
+ "per" : 	" 8,43",
+ "pvl" : 	" 1,28",
+"roe" :	" 15%",
+"yield" :	" 5,91%",
+"ytd" :	" 21,32%"
 },	
 {	
 "id" :	 "22", 
-"nombre":	 "PEI", 
- "per" : 	" 1,86",
- "pvl" : 	" 0,27",
-"roe" :	" 14%",
-"yield" :	" 0,00%",
-"ytd" :	" -7,82%"
+"nombre":	 "MINEROS", 
+ "per" : 	" 14,03",
+ "pvl" : 	" 0,73",
+"roe" :	" 5,2%",
+"yield" :	" 11,03%",
+"ytd" :	" 74,39%"
 },	
 {	
 "id" :	 "23", 
+"nombre":	 "PEI", 
+ "per" : 	" 3,37",
+ "pvl" : 	" 0,49",
+"roe" :	" 14%",
+"yield" :	" 0,00%",
+"ytd" :	" 1,09%"
+},	
+{	
+"id" :	 "24", 
+"nombre":	 "PROMIGAS", 
+ "per" : 	" 7,41",
+ "pvl" : 	" 1,29",
+"roe" :	" 17,4%",
+"yield" :	" 7,83%",
+"ytd" :	" 43,26%"
+},	
+{	
+"id" :	 "25", 
 "nombre":	 "TERPEL", 
- "per" : 	" 4,03",
- "pvl" : 	" 0,45",
-"roe" :	" 11%",
-"yield" :	" 12,40%",
-"ytd" :	" -7,72%"
+ "per" : 	" 5,18",
+ "pvl" : 	" 0,54",
+"roe" :	" 10%",
+"yield" :	" 9,65%",
+"ytd" :	" 5,16%"
 }]}}	
+	
