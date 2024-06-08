@@ -24,7 +24,7 @@ export default function Bread3() {
                     <a href='/' > HOME</a> 
                     <a href='/educacion'>EDUCACION</a> 
                     <a href='/empresas' className={styles.home}>EMPRESAS</a> 
-                    <a href='https://jcbotero.github.io/Juego-de-Inversiones/' >JUEGO</a> 
+                    <a href='https://stock-investment-challenge.vercel.app/' >JUEGO</a> 
                     <a href='/contacto'>CONTACTO</a> 
                 </div>
                 <div className={styles.mobile}>
