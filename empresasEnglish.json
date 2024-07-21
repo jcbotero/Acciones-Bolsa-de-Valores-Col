@@ -1,0 +1,120 @@
+{
+    "items2": {
+        "responsive": [
+            {
+                "id": 1,
+                "title": "BANCOLOMBIA",
+                "text": "We are a leading financial group, with more than 146 years of experience and evolving to take on the challenges brought by an environment in constant transformation. We are a growing, profitable organization, with almost 30,000 employees and a presence in Colombia, Panama, Guatemala and El Salvador. We have been on the New York Stock Exchange (NYSE) for 25 years, being the first Colombian financial entity listed in that market. We provide access to financial and non-financial solutions for individuals, entrepreneurs, SMEs, companies and institutions, while we invest in educational, entrepreneurship and environmental care initiatives that help generate positive transformations in society. We have permanent access to funding in the local and international capital markets.",
+                "imageUrl": "../bancolombia.jpg"
+              },
+              {
+                 "id": 2,
+                "title": "BANK OF BOGOTA",
+                "text": "Banco de Bogotá is the second largest bank in Colombia by asset size. In its universal banking model, it serves all market segments with high quality standards. It has a presence in more than 12 countries in the region. Its performance in the markets where it operates has made it a banking benchmark,",
+                "imageUrl": "../bancodebogota.jpg"
+              },
+               {
+                 "id": 3,
+                 "title": "CELSIA",
+                 "text": "We are the energy company of the Argos Group, passionate about new renewable and environmentally friendly energy sources and energy efficiency. We generate and transmit efficient energy from clean sources (water, sun and wind) with backup thermal. We have found new ways to advise our clients so that their home, company or urban project can connect and enjoy all the advantages of the new era of energy.",
+                 "imageUrl": "../celsia.jpg"
+               },
+               {
+                "id": 4,
+                "title": "CEMENTOS ARGOS",
+                "text": "We are a multinational organization, producer and marketer of cement and concrete. Thanks to the installed capacity, the creation of value for our clients, constant innovation and its commitment to sustainability, we are leaders in Colombia and one of the most relevant players in the cement and concrete market on the continent. We are leaders in the cement and concrete market in Colombia, with a presence also in the United States, Central America and other countries on the American continent, where we have more than 22,000 clients. specialized portfolio we have products such as Cement, Concrete, Aggregates, Ready Mixtures, among other solutions.",
+                "imageUrl": "../cementosargos.jpg"
+              },
+              {
+                 "id": 5,
+                "title": "CONCONCRETO",
+                "text": "We are a multinational organization, producer and marketer of cement and concrete. Thanks to the installed capacity, the creation of value for our clients, constant innovation and its commitment to sustainability, we are leaders in Colombia and one of the most relevant players in the cement and concrete market on the continent. We are leaders in the cement and concrete market in Colombia, with a presence also in the United States, Central America and other countries on the American continent, where we have more than 22,000 clients. specialized portfolio we have products such as Cement, Concrete, Aggregates, Ready Mixtures, among other solutions.",
+                "imageUrl": "../conconcreto.jpg"
+              },
+             {
+                "id": 7,
+               "title": "CORFICOLOMBIANA",
+               "text": "Corficolombiana is the largest Financial Corporation in Colombia, with investments in five strategic sectors of the economy: infrastructure, energy and gas, financial services, hotels and agribusiness, creating and taking advantage of opportunities to improve growth prospects and promoting its profitability. In addition to Investment Banking activities, it develops treasury and trust operations through its subsidiaries.",
+               "imageUrl": "../corficolombiana.jpg"
+             },
+             {
+                "id": 8,
+                "title": "DAVIVIENDA",
+                "text": "For more than four decades we have actively participated in the construction of Colombia and have become an important reference in the country's financial sector. We are part of the Bolívar Business Group, which for more than 80 years has accompanied the people, families and companies in the fulfillment of their objectives. We are recognized for the unique management of our image through communication, becoming one of the five most valuable brands and the first Bank in advertising recall in Colombia. Comprehensive portfolio of products and services meets the needs of people, companies, the rural sector, mining and energy, with constant innovation and exclusive offers for each segment. In addition to Colombia, we have operations in Panama, Costa Rica, Honduras, El Salvador and Miami. in the U.S. ",
+                "imageUrl": "../davivienda.JPG"
+              },
+               {
+                 "id": 9,
+                 "title": "ECOPETROL",
+                 "text": "Ecopetrol S.A. is a Company organized under the form of a national corporation, linked to the Ministry of Mines and Energy. It has operations located in the center, south, east and north of Colombia, as well as in the abroad. It has two refineries in Barrancabermeja and Cartagena. Through its subsidiary Cenit, specialized in hydrocarbon transportation and logistics, it owns three ports for the export and import of fuels and crude oil in Coveñas (Sucre) and Cartagena (Bolívar) with outlet to the Atlantic, and Tumaco (Nariño) on the Pacific. Cenit also owns most of the country's oil pipelines and polyducts that interconnect production systems with large consumption centers and maritime terminals. Ecopetrol also has a stake in it. the biofuels business and presence in Brazil, Mexico and the United States (Gulf of Mexico and Permian Texas).",
+                 "imageUrl": "../ecopetrol.jpg"
+               },
+               {
+                "id": 9,
+                "title": "BOGOTA ENERGY GROUP",
+                "text": "We are a multilatina with more than 125 years of history, with operations throughout the energy chain in Latin America in transmission, generation and distribution of electrical energy and transportation and distribution of natural gas in Colombia, Peru, Brazil and Guatemala, with participation in large companies in the sector and 11 subsidiaries. In Colombia, with Transmission, we are number two in electric energy transportation with 1,690 kilometers of lines in operation and more than 2,300 kilometers under construction",
+                "imageUrl": "../EEB.jpg"
+              },
+              {
+                 "id": 10,
+                "title": "ENKA",
+                "text": "Founded in 1964 by the Dutch group Akzo Nobel and important textile companies in the country with the purpose of manufacturing and marketing synthetic resins and fibers, seeking the development of the Colombian industry and society. Our production plant began operations in 1966, with a capacity of 4,200 tons per year. Today the capacity exceeds 100,000 tons per year. With more than 50 years in the market, we are recognized as leaders in post-consumer PET bottle recycling in the country. manufacturer of canvas for nylon 6 tires in America, the largest producer of filaments and synthetic fibers in the Andean Region and one of the main players in Latin America",
+                "imageUrl": "/enka.jpg"
+              },
+              {
+               "id": 6,
+               "title": "ARGOS GROUP",
+               "text": "We are a leading infrastructure holding company on the American continent and a leader in the cement business. We have a unique investment structure in road and airport concessions. In addition, we have a differentiating and innovative portfolio in conventional and renewable energies. We are leaders in the Cementos business with Argos, we have a unique investment structure in concessions with Odinsa and a differentiated and innovative energy portfolio with Celsia",
+               "imageUrl": "../grupoargos.jpg"
+             },
+         {
+            "id": 7,
+           "title": "GRUPO AVAL",
+           "text": "Grupo Aval es uno de los grupos financieros más grandes de Colombia, líder en el negocio de banca tradicional a través de sus cuatro bancos (Banco de Bogotá, Banco de Occidente, Banco Popular y Banco AV Villas), en el negocio de banca de inversión a través de Corficolombiana y en el negocio de administración privada de pensiones y cesantías a través de Porvenir. Adicionalmente tiene presencia en Panamá a través de la operación de Multi Financial Group. Grupo Aval atiende alrededor de 18 millones de clientes bancarios y 15.8 millones de afiliados a fondos de pensiones y cesantías en Colombia. Cuenta con una red de 51,362 puntos de atención en Colombia dentro de los cuales se encuentran 1,173 oficinas y 3,272 cajeros automáticos.",
+           "imageUrl": "../grupoaval.jpg"
+         },
+         {
+            "id": 8,
+            "title": "BOLIVAR GROUP",
+            "text": "The Bolívar Group is a business group with a multi-Latin approach that has been in existence for more than 70 years, made up of companies from various sectors: financial sector, insurance sector, construction sector, among others, that enjoy the highest level of recognition in the market for its solidity, tradition and for its strict adherence to the legislation that applies to them.",
+            "imageUrl": "../grupobolivar.jpg"
+          },
+          {
+             "id": 9,
+             "title": "SURA GROUP",
+             "text": "We are a Latin American investment manager that develops a balanced investment portfolio with a focus on financial and related services. We are guided by the purpose of creating well-being and harmonious development for people, organizations and society. With the strategic objective To obtain sustainable profitability, we seek to deliver to our shareholders an economic return greater than the cost of capital and create value for our other stakeholders, with a long-term view. We are a holding company of the SURA-Bancolombia Financial Conglomerate, present in 11 countries in Latin America. We are listed on the Colombian Stock Exchange (BVC) and are registered in the ADR program -Level I, in the United States.",
+             "imageUrl": "../gruposura.jpg"
+           },
+           {
+            "id": 10,
+           "title": "ISA",
+           "text": "We are a multi-Latin company with more than 55 years of experience and track record, which operates in the Electrical Energy, Roads and Telecommunications and ICT businesses, which contributes to the quality of life of millions of people in Colombia, Brazil, Chile, Peru, Bolivia, Argentina and Central America, through the work of our more than four thousand talents in 51 companies, our company and companies are committed to the mitigation and adaptation to climate change, the rational use of resources, the development of. programs that generate positive impact on the environment, the comprehensive development of the communities where it operates and the quality, reliability and availability of the services it provides.",
+           "imageUrl": "../isa.jpg"
+         },
+         {
+            "id": 11,
+            "title": "MINEROS",
+            "text": "We are a company focused on the responsible production and exploration of gold, with more than 47 years of experience, with headquarters in Medellín, Colombia. We have a presence in four countries. With production in Colombia, Nicaragua and Argentina, and exploration in the countries in which we operate and Chile. In Colombia, we have the Nechí Aluvial mining property, in Bajo Cauca, Antioquia, in the northwest of the country. In Nicaragua, we have the Hemco mining property, located in Bonanza, a Municipality on the Coast. Caribbean, in the northeast of the country, where we have an underground mine and an artisanal mining program. In Argentina, we have the Gualcamayo mining property, which is located in the Municipality of San Juan, in the northeast of the country, near the border with Chile, which has an open pit and an underground operation. In Chile, we have an earn-in in the Greenfield project with Yamana, La Pepa, which is located in the north of the country, in the Copiapó region ",
+            "imageUrl": "../mineros.jpg"
+          },
+           {
+             "id": 12,
+             "title": "NUTRESA",
+             "text": "Grupo Nutresa S. A. is the leading processed food company in Colombia - with 53.7% of consolidated market share - and one of the most relevant players in the sector in Latin America, with consolidated sales of COP 12, 7 billion through eight business units: Meats, Cookies, Chocolates, Coffees, Tresmontes Lucchetti (TMLUC), Consumer Foods, Ice Cream, Pastas and others. Grupo Nutresa is a diversified company in terms of geography, products and supply; direct presence in 17 countries and international sales of USD 1,322 million in 82 countries",
+             "imageUrl": "../nutresa.jpg"
+           },
+           {
+            "id": 13,
+            "title": "PEI",
+            "text": "It is an investment alternative that allows investors to participate in a diversified portfolio of income-generating commercial assets through Participatory Securities that trade on the Colombian Stock Exchange and have the highest rating granted by BRC. Standard & Poor's: i-AAA. Pei is a pioneer of the leading real estate investment vehicles in Colombia and is structured as an autonomous real estate securitization fund. It replicates the model of international real estate trusts commonly known as REITs. English (Real Estate Investment Trusts)",
+            "imageUrl": "../PEI.jpg"
+          },
+           {
+             "id": 14,
+             "title": "TERPEL",
+             "text": "Terpel is a company of Colombian origin, tradition and spirit that for 50 years has been committed to the country, promoting its development, growing hand in hand with its affiliates and working under a strict corporate governance and ethics policy. business. It is a leader in the distribution and marketing of liquid fuels, CNG and lubricants in Colombia and has a significant presence in Ecuador, Panama, Peru and the Dominican Republic. In Colombia, its network is made up of more than 2,000 service stations and 31 plants. supply. In the Aviation business, the company leads the market operating in 21 airports in Colombia, 5 in Panama, one in Peru and 5 in the Dominican Republic",
+             "imageUrl": "../terpel.jpg"
+           }
+         ]
+       }
+}

@@ -2,17 +2,38 @@ import Table from '../table'
 import styles from '/styles/Home.module.css'
 import { items } from "/data.json"
 import React from 'react'
+import { useState, useEffect } from 'react'
+
+export default function Landing({idioma}) {
 
 
-export default function Landing() {
+
+    const [ titulo, setitulo] = useState ("KEY DATA FOR MAKING INVESTMENT DECISIONS")  
+
+
+    useEffect(()=> {
+            
+      if ( idioma == "English") {
+        setitulo("KEY DATA FOR MAKING INVESTMENT DECISIONS")
+
+      } else {
+        setitulo("DATOS CLAVES PARA LA TOMA DE DECISIONES DE INVERSIÓN")
+      }
+      
+      
+       
+    }) 
+
+
+
 
     const {data} = items;
 
     return (
         <>
          <div className={styles.landing}  id={styles.main}  >
-            <h1>DATOS CLAVES PARA LA TOMA DE DECISIONES DE INVERSIÓN</h1>
-            < Table />
+            <h1>{titulo}</h1>
+            < Table idioma={idioma} />
             <div className={styles.acciones}>
             {data.map( data =>
                 <div key={ data.id} className={styles.share}>

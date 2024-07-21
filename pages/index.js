@@ -6,10 +6,23 @@ import Bread from './breadcrumb'
 import Landing from './Landing'
 import Footer from './footer'
 import "@fortawesome/fontawesome-svg-core/styles.css";
-
+import { useState, useEffect } from 'react'
 
 
 export default function Home() {
+
+
+  const [ idioma, setIdioma] = useState ("English")  
+
+  
+useEffect(()=> {
+        
+  
+  
+  
+   
+}) 
+
   return (
     <>
       <Head>
@@ -23,11 +36,11 @@ export default function Home() {
         <script src="https://kit.fontawesome.com/068ec41cf0.js" crossorigin="anonymous"></script>
       </Head>
       <main className={styles.main}>
-        < Bread />
-        < Landing />
+        < Bread lenguague={setIdioma} /> {/* aqui estoy recibiendo la prop y enviandola directamente al setIdioma, tambien se pueden enviar a functions o const */}
+        < Landing idioma={idioma}/>
       </main>
       <div>
-      < Footer />
+      < Footer idioma={idioma}  />
       </div>
     </>
   )

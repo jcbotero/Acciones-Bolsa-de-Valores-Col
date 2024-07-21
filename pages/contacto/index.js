@@ -3,9 +3,16 @@ import styles from '/styles/Home.module.css'
 import Bread5 from './bread5'
 import Footer from '../footer'
 import Contacto from './contacto'
+import { useState, useEffect } from 'react'
 
 
 export default function Home() {
+
+
+  const [ idioma, setIdioma] = useState ("English")  
+
+
+
   return (
     <>
       <Head>
@@ -19,11 +26,12 @@ export default function Home() {
         <script src="https://kit.fontawesome.com/068ec41cf0.js" crossorigin="anonymous"></script>
       </Head>
       <main className={styles.main}>
-        < Bread5 />
-        < Contacto />
+         < Bread5 lenguague={setIdioma} /> {/* aqui estoy recibiendo la prop y enviandola directamente al setIdioma, tambien se pueden enviar a functions o const */}
+       
+        < Contacto idioma={idioma}  />
       </main>
       <div id={styles.footercontact}>
-         < Footer />    
+         < Footer idioma={idioma} />    
      </div>    
     </>
   )

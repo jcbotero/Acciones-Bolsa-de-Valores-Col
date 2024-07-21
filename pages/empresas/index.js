@@ -4,9 +4,32 @@
     import Footer from "../footer";
     import ResponsiveCarousel from "./Responsive";
     import styles from '/styles/Home.module.css'
-
+    import { useState, useEffect } from 'react'
+    
 
     export default function Home() {
+
+      const [ idioma, setIdioma] = useState ("English")  
+      const [ titulo, setTitulo] = useState ("KNOW THE COMPANIES LISTED ON THE COLOMBIAN STOCK EXCHANGE")  
+
+
+
+      useEffect(()=> {
+            
+        if ( idioma == "English") {
+  
+          setTitulo("KNOW THE COMPANIES LISTED ON THE COLOMBIAN STOCK EXCHANGE")
+  
+        } else {
+  
+          setTitulo("CONOCE LAS EMPRESAS QUE COTIZAN EN LA BOLSA COLOMBIANA")
+
+        }
+        
+        
+         
+      }) 
+
       return (
         <div>
           <Head>
@@ -19,12 +42,12 @@
             <script src="https://kit.fontawesome.com/068ec41cf0.js" crossorigin="anonymous"></script>
           </Head>
           <main className={styles.main}>
-            <Bread3 />
-            <h1>CONOCE LAS EMPRESAS QUE COTIZAN EN LA BOLSA COLOMBIANA</h1>
-            <ResponsiveCarousel  />
+            <Bread3 lenguague={setIdioma} /> {/* aqui estoy recibiendo la prop y enviandola directamente al setIdioma, tambien se pueden enviar a functions o const */}
+            <h1>{titulo}</h1>
+            <ResponsiveCarousel idioma={idioma} />
           </main>
           <div className={styles.footerempre}>
-            < Footer />    
+            < Footer idioma={idioma} />    
            </div>   
         </div>
       );
